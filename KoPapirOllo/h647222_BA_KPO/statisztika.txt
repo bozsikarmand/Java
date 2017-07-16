@@ -1,0 +1,8 @@
+Osszjatekok szama: 
+10
+Nyereseid szama: 
+4
+Dontetlenek szama: 
+1
+Veresegek szama: 
+5
