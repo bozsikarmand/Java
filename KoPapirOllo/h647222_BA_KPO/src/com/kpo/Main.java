@@ -8,11 +8,8 @@ public class Main {
         Scanner JatekVege = new Scanner(System.in);                                                                     // Billentyuzetrol olvasom hogy vege-e a jateknak
         Scanner Nev = new Scanner(System.in);                                                                           // Beolvasom a jatekos nevet
                                                                                                                         //
-        System.out.println("=========================================");                                                //
-        System.out.println("Programozas I. beadando");                                                                  //
+        System.out.println("=========================================");                                                //                                                                  //
         System.out.println("Bozsik Armand Viktor");                                                                     //
-        System.out.println("Szegedi Tudomanyegyetem");                                                                  //
-        System.out.println("Programtervezo informatikus (levelezo)");                                                   //
         System.out.println("=========================================");                                                //
         System.out.println("\n");                                                                                       //
         System.out.println("Add meg a teljes neved:");                                                                  //
